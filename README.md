@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Hu Weihuang 👋
 
 <!--
 **huweihuang/huweihuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭  skill: CloudNative, Kubernetes, Docker, Golang...
+
+📫  email: huweihuang@foxmail.com
+
+💬  blog: [www.huweihuang.com](http://www.huweihuang.com/), [http://blog.csdn.net/huwh_](http://blog.csdn.net/huwh_)
+
+🌱  notes: [kubernetes](http://www.huweihuang.com/kubernetes-notes), [k8s-source-code-analysis](http://www.huweihuang.com/k8s-source-code-analysis/), [golang](http://www.huweihuang.com/golang-notes), [linux](http://www.huweihuang.com/linux-notes)
