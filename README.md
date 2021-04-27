@@ -1,4 +1,4 @@
-### Hi, I'm Hu Weihuang 👋
+# Hi, I'm Hu Weihuang 👋
 
 <!--
 **huweihuang/huweihuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭  skill: CloudNative, Kubernetes, Docker, Golang...
+## 🔭  Skill
 
-📫  email: huweihuang@foxmail.com
+- CloudNative, Kubernetes, Docker, Golang ...
 
-💬  blog: [www.huweihuang.com](http://www.huweihuang.com/), [http://blog.csdn.net/huwh_](http://blog.csdn.net/huwh_)
+## 💬  Blog
 
-🌱  notes: [kubernetes](http://www.huweihuang.com/kubernetes-notes), [k8s-source-code-analysis](http://www.huweihuang.com/k8s-source-code-analysis/), [golang](http://www.huweihuang.com/golang-notes), [linux](http://www.huweihuang.com/linux-notes)
+- [www.huweihuang.com](http://www.huweihuang.com/)
+- [http://blog.csdn.net/huwh_](http://blog.csdn.net/huwh_)
+
+## 🌱  Notes
+
+- [kubernetes](http://www.huweihuang.com/kubernetes-notes)
+- [k8s-source-code-analysis](http://www.huweihuang.com/k8s-source-code-analysis/)
+- [golang](http://www.huweihuang.com/golang-notes)
+- [linux](http://www.huweihuang.com/linux-notes)
+
+## 📫  Email
+
+- huweihuang@foxmail.com
+
+<br/>
+
+![image](https://github.com/huweihuang/huweihuang/blob/main/dinosaur.gif)
