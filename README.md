@@ -17,24 +17,20 @@ Here are some ideas to get you started:
 
 ## 🔭  Skill
 
-- CloudNative, Kubernetes, Docker, Golang ...
+- CloudNative, Kubernetes, Docker, Golang, Linux ...
 
 ## 💬  Blog
 
 - [www.huweihuang.com](http://www.huweihuang.com/)
+
 - [http://blog.csdn.net/huwh_](http://blog.csdn.net/huwh_)
 
 ## 🌱  Notes
 
-- [kubernetes](http://www.huweihuang.com/kubernetes-notes)
-- [k8s-source-code-analysis](http://www.huweihuang.com/k8s-source-code-analysis/)
-- [golang](http://www.huweihuang.com/golang-notes)
-- [linux](http://www.huweihuang.com/linux-notes)
+- [kubernetes](http://www.huweihuang.com/kubernetes-notes), [k8s-source-code-analysis](http://www.huweihuang.com/k8s-source-code-analysis/), [golang](http://www.huweihuang.com/golang-notes), [linux](http://www.huweihuang.com/linux-notes)
 
 ## 📫  Email
 
 - huweihuang@foxmail.com
-
-<br/>
 
 ![image](https://github.com/huweihuang/huweihuang/blob/main/dinosaur.gif)
