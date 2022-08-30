@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 - [www.huweihuang.com](http://www.huweihuang.com/)
 
+- [blog.huweihuang.com](http://blog.huweihuang.com/)
+
 - [http://blog.csdn.net/huwh_](http://blog.csdn.net/huwh_)
 
 ## 🌱  Notes
