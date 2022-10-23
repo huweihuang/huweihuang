@@ -35,4 +35,7 @@ Here are some ideas to get you started:
 
 - huweihuang@foxmail.com
 
-![image](https://github.com/huweihuang/huweihuang/blob/main/dinosaur.gif)
+## 👯 WeChat 
+
+<img src="https://res.cloudinary.com/dqxtn0ick/image/upload/v1551600382/blog/wechat-public-acconut.jpg" width="30%" >
+
